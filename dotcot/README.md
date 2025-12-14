@@ -1,4 +1,4 @@
-# [DotCot by VentureCat](https://peaceful-woodland-39661.herokuapp.com/welcome) 
+# DotCot by VentureCat
 
 ###  Check out a live demo of this project [here](https://youtu.be/yGJ2WOfZvew).
 
